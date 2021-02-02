@@ -1,4 +1,4 @@
-# Projet PHP  (RodneyOuz = Paul Astru)
+# Projet PHP  
 ## 1. Lancer le projet
 ```bash
 docker-compose up --build -d # Lance les conteneur php mysql et nginx
@@ -19,3 +19,9 @@ Créer un utilisateur administrateur:
 - Créer un compte avec l'email root@localhost.com
 - Ouvrir la database dans l'app de votre choix`
 - Dans la table Users, changer le isAdmin de l'utilisateur de 0 à 1
+
+#Projet réalisé par 
+Paul Astru (RodneyOuz)
+Michel Tran
+Chakil Mouhamad
+Julien Arbellini
