@@ -23,7 +23,7 @@ class User extends Model implements AuthenticatableContract, AuthorizableContrac
     ];
   }
 
-  public function cats(){};
+  
 
   public function dogs(){
     return $this->hasMany('App\Dog');
