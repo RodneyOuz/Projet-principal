@@ -1,4 +1,4 @@
-# Projet PHP 
+# Projet PHP  (RodneyOuz = Paul Astru)
 ## 1. Lancer le projet
 ```bash
 docker-compose up --build -d # Lance les conteneur php mysql et nginx
