@@ -26,6 +26,6 @@ class Kernel extends ConsoleKernel {
   }
   
   protected function add(add $add) {
-    //add
+    //adddd
   }
 }
