@@ -21,7 +21,7 @@ Créer un utilisateur administrateur:
 - Dans la table Users, changer le isAdmin de l'utilisateur de 0 à 1
 
 # Projet réalisé par 
-Paul Astru (RodneyOuz)
-Michel Tran
-Chakil Mouhamad
-Julien Arbellini
+- Paul Astru (RodneyOuz)
+- Michel Tran
+- Chakil Mouhamad
+- Julien Arbellini
