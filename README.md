@@ -20,7 +20,7 @@ Créer un utilisateur administrateur:
 - Ouvrir la database dans l'app de votre choix`
 - Dans la table Users, changer le isAdmin de l'utilisateur de 0 à 1
 
-#Projet réalisé par 
+# Projet réalisé par 
 Paul Astru (RodneyOuz)
 Michel Tran
 Chakil Mouhamad
