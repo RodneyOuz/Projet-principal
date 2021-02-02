@@ -19,4 +19,8 @@ class Breed extends Model implements AuthenticatableContract, AuthorizableContra
   protected $fillable = [
     'name'
   ];
+  
+  protected $full = [
+    'lastname'
+  ];
 }
